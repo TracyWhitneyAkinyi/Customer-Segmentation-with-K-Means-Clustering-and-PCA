@@ -16,7 +16,10 @@ This link talks more about K- means clustering in R:
 
 While working with clusters, you need to specify the number of clusters to use. You would like to utilize the optimal number of clusters. To help you in determining the optimal clusters, there are two popular methods
 
- *Elbow method
- *Silhouette method
+ *Elbow method.
+ 
+ *Silhouette method.
+ 
+ The link to the project is https://rpubs.com/Tracy_Whitney/923071
  
  
