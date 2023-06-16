@@ -18,8 +18,7 @@ While working with clusters, you need to specify the number of clusters to use. 
 
  *Elbow method.
  
- *Silhouette method.
- 
- The link to the project is https://rpubs.com/Tracy_Whitney/923071
+ *Silhouette method
+ Click [here](https://rpubs.com/Tracy_Whitney/923071) to view the entire project 
  
  
